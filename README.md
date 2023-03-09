@@ -1,2 +1,2 @@
-# attendenceproject.py
-face regointion machine learning 
+# Attendenceproject.py
+Face recognition uses AI algorithms and ML to detect human faces
