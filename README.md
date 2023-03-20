@@ -1,4 +1,4 @@
-Attendance using Face Recognition
+#Attendance using Face Recognition<br/>
 This Python code uses the OpenCV and face_recognition libraries to perform real-time face recognition from a webcam feed, matching the faces to a set of known images in a directory.
 
 The code records the time of attendance for each recognized face and stores the data in a CSV file.
