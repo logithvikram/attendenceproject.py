@@ -1,22 +1,18 @@
-#Attendance using Face Recognition<br/>
-This Python code uses the OpenCV and face_recognition libraries to perform real-time face recognition from a webcam feed, matching the faces to a set of known images in a directory.
+# Web3 Wallet Bruteforcer
 
-The code records the time of attendance for each recognized face and stores the data in a CSV file.
 
-Requirements
-This code requires OpenCV and face_recognition libraries to be installed on your machine.
+1. Config your API Values in the program <br />
+        Like : <br />
+    ```api_key = 'YOUR_API_KEY_HERE'``` <br />
+    ```user_id = 'YOUR_USER_ID_HERE'``` <br />
+    <br />
+2. Config multiple phrases from random generator and config the pharses.<br />
+        Like :<br /> 
+        ```faith pitch casino tone banner spirit window wisdom average celery pole gravity net kind field stem around crumble normal ```<br />
+        <br />
+3. Locate and config the browser path as well as chromedriver path.<br />
+        Like : <br />
+        ```/usr/bin/brave-browser```<br />
+        <br />
+3. Run ```main.py``` to run the code.<br />
 
-Usage
-Simply run the Python code to start the webcam feed and begin face recognition.
-
-Notes
-This code is intended for educational purposes only and may require modification to suit specific use cases.
-
-Acknowledgements
-This code is based on the work of various developers, including the OpenCV and face_recognition communities.
-
-Contributing
-Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request.
-
-License
-This code is licensed under the MIT License.
